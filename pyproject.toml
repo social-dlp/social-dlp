@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=65.5.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "social-dlp"
+version = "0.0.1"
+description = "Initial empty version"
+authors = [
+    {name="Social DLP"}
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
